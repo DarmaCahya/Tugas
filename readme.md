@@ -9,4 +9,4 @@ this is my Teknofest code assignment in 2021 where I make various things like ma
 * 🌍  I'm based in Indonesia!!
 * ✉️  You can contact me at [darmady6@gmail.com](mailto:darmady6@gmail.com) 🤗
 * 🧠  I'm learning c++ and dive into learning python👌👍
-* 🤝  I'm open to collaborating on basic projects or things related to machine learning😉
+* 🤝  I'm open to collaborating on basic projects or things related to machine learning😉 
